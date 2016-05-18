@@ -192,23 +192,6 @@
                     }
                 });
             }, 50), false);
-
-            
-            // TESTING
-            // $scope.showProgress = true;
-            // $scope.progress = 0;
-            // $timeout(function(){
-            //     $scope.cacheProgress = 50;
-            // }, 500);
-            // $timeout(function(){
-            //     $scope.cacheProgress = 100;
-            // }, 1000);
-            
-            // $scope.showMessage('Progress test');
-            // $timeout(function(){
-            //     $scope.showMessage('Test2');
-            // },500);
-            
         }
     ])
     
